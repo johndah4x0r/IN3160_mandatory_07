@@ -1,0 +1,6 @@
+/test/*.ghw
+/test/sim_build
+/test/results.xml
+
+/*/__pycache__/
+/*/.mypy_cache/
